@@ -13,7 +13,7 @@ dependencies:
   sha3: ^0.2.0
   web3dart: ^2.7.3
     #path: ../web3dart
-  web_socket_channel: ^2.4.5
+  web_socket_channel: ^3.0.1
   fast_base58: ^0.2.1
   http: ^1.2.1
   convert: ^3.1.1
